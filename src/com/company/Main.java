@@ -23,8 +23,8 @@ public class Main {
         d.arrayPrintMethod();
         System.out.println(sumDo);
 
-        foreachMethod fe= new foreachMethod();
-        int sumFore=fe.arrayCountMethod(new int[]{1,2,3,4,6});
+        foreachMethod fe = new foreachMethod();
+        int sumFore = fe.arrayCountMethod(new int[]{1, 2, 3, 4, 6});
         fe.arrayPrintMethod();
         System.out.println(sumFore);
 
